@@ -1,10 +1,10 @@
 {
   "OverSight": {
     "description": "Monitors a mac's mic, webcam, screen capture, keyboard taps, and remote access, naming the app responsible",
-    "version": "2.5.2",
+    "version": "2.5.3",
     "OSMajor": 12,
     "OSMinor": 0,
-    "zip": "https://github.com/samueljason0508/releases/releases/download/oversight-v2.5.2/OverSight_2.5.2.zip",
-    "sha256": "985c295cb71addd0d49d9a3ffe08fe9e58a901f6bef2289c11017e05cb5c1501"
+    "zip": "https://github.com/samueljason0508/releases/releases/download/oversight-latest/OverSight.zip",
+    "sha256": "16531e692026a9888793cf7811c59a170f07208d4dd6d59d9acbe7b70db96d7e"
   }
 }
